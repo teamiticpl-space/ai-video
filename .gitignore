@@ -1,0 +1,13 @@
+# Large video assets — exceed GitHub's 100 MB per-file limit.
+# Store locally next to the HTML file; see README for details.
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+*.swp
+*~
